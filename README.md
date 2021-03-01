@@ -1,6 +1,6 @@
 # laravel
 
-A simple small project boxed meal order System 
+A simple and small project boxed meal order System 
 
 A PHP Laravel framework MVC structure
 
