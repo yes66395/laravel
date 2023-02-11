@@ -2,7 +2,7 @@
 
 A simple and small project boxed meal order System 
 
-A PHP Laravel framework MVC structure
+Use PHP Laravel framework MVC structure
 
 PHP7 and MySql
 
